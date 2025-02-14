@@ -138,6 +138,11 @@ window.addEventListener("keydown", function (event) {
     }
 });
 
+function flowerGame() {
+    // Redirect to another HTML page (e.g., valentine.html)
+    window.location.href = 'https://flower-main-iota.vercel.app/';
+}
+
 // On images load, draw the maze
 wallImage.onload = drawMaze;
 walkwayImage.onload = drawMaze;
