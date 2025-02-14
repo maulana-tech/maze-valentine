@@ -10,10 +10,10 @@ canvas.height = rows * tileSize;
 
 // Load images
 const wallImage = new Image();
-wallImage.src = "https://imgur.com/2wxq3od.png";
+wallImage.src = '2wxq3od - Imgur.png';
 
 const walkwayImage = new Image();
-walkwayImage.src = "https://i.imgur.com/3henhoR.png";
+walkwayImage.src = "3henhoR - Imgur.png";
 
 const playerImage = new Image();
 playerImage.src = "https://media.tenor.com/uX1jpz5E4lcAAAAj/bmo-bounce.gif"; // Cinnamoroll GIF as the player
